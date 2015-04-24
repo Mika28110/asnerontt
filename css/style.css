@@ -1,0 +1,160 @@
+#bloc_page
+{
+	background-color: #2980b9;
+	width: 900px;
+	margin: auto;
+	height: auto;
+	border-radius: 0px 0px 20px 20px;
+}
+
+header img
+{
+	width: 100%;
+	height: 200px;
+	margin: 0 auto;
+	float: left;
+}
+
+body
+{
+	background-color: white;
+}
+
+#menu li
+{
+	display: inline;
+	margin: 18px;
+	font-size: large;
+}
+
+article
+{
+	display: block;
+	padding: 05px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: white;
+	border: 2px black solid;
+	border-radius: 20px 20px 20px 20px;
+	word-wrap: break-word;
+	box-shadow: 05px 05px 05px black;
+}
+
+nav
+{
+	background-color: white;
+	box-shadow: 01px 01px 05px black;
+}
+
+a:link
+{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+a:visited
+{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: #2980b9;
+	font-weight: bold;
+}
+
+h1
+{
+	font-size: large;
+	color: #2980b9;
+	margin-left: 10px;
+}
+
+h2
+{
+	font-size: medium;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+article p
+{
+	padding: 10px;
+	text-align: justify;
+}
+
+#asneron
+{
+	width: 900px;
+	text-align: right;
+	position: relative;
+	bottom: 30px;
+	right: 30px;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+header
+{
+	height: 200px;
+}
+
+footer
+{
+	color: black;
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: white;
+	border-radius: 20px 20px 20px 20px;
+	border: 2px solid black;
+	text-align: center;
+}
+
+#tarifs
+{
+	display: block;
+	text-align: center;
+}
+
+.contact
+{
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.contact ul
+{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+}
+
+div
+{
+	text-align: center;
+}
+
+#mail
+{
+	text-decoration: none;
+	color: #2980b9;
+}
+
+ul
+{
+	text-align: left;
+}
+
+#situation
+{
+	text-align: center;
+	list-style-type: none;
+}
